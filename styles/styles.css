@@ -1,5 +1,6 @@
-.post-item__text ul li:before{
+.post-item__text ul li::before{
     border-color: black;
+    list-style-type: none;
 }
 .application{
     width: 100%;
@@ -19,4 +20,8 @@
 .font-bold{
     font-weight: bold;
     font-size: 1.1em;
+}
+.dots ul{
+    text-align: center;
+    list-style: none;
 }
