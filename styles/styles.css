@@ -1,0 +1,22 @@
+.post-item__text ul li:before{
+    border-color: black;
+}
+.application{
+    width: 100%;
+}
+.person img{
+    max-width: 150px;
+    max-height: 150px;
+    margin-top: 20px;
+}
+.time-ago{
+    color: gray;
+    font-weight: bold;;
+}
+.reasons li{
+    margin-left: 25px;
+}
+.font-bold{
+    font-weight: bold;
+    font-size: 1.1em;
+}
